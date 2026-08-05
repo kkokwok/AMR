@@ -629,7 +629,7 @@ syntax_petkapstudy
 
 If you use these data, please cite:
 
-> Kwok KO, et al. *Knowledge and practices regarding antimicrobial resistance and antibiotic use among companion animal owners in Hong Kong: a cross-sectional survey with descriptive attitude findings*. One Health Outlook.
+> Kwok KO, et al. *Knowledge, attitudes, and practices regarding antibiotic use and antimicrobial resistance among companion animal owners in Hong Kong: A One Health cross-sectional study*. One Health Outlook.
 
 ---
 
